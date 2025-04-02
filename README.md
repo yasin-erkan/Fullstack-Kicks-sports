@@ -1,8 +1,7 @@
 # 🏃‍♂️ Fullstack-Kicks-sports
 
 A modern e-commerce platform for sports shoes built with React, TypeScript and Node.js.
-
-![Project Preview](preview.png)
+https://github.com/yasin-erkan/Fullstack-Kicks-sports/blob/main/Kicks!.mov
 
 ## 🚀 Features
 
