@@ -1,0 +1,25 @@
+---
+description: lkit-
+globs: 
+alwaysApply: false
+---
+---
+description: Tech Stack
+globs: 
+---
+# Core Stack
+
+- Bundler: Vite
+- Framework: react
+- Language: javascript/typscript
+- HTTP Client: Axios
+-mongoDB
+-express js
+-nodejs
+
+# Additional Libraries
+
+- Routing: React Router DOM
+- State Management: Redux Toolkit 
+- Styling: tailwind
+
