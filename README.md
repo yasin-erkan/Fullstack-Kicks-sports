@@ -1,4 +1,5 @@
 # 🏃‍♂️ Fullstack-Kicks-sports
+![kicks -store](https://github.com/user-attachments/assets/5338f53e-e49c-4891-b187-f79de80492cd)
 
 A modern e-commerce platform for sports shoes built with React, TypeScript and Node.js.
 
